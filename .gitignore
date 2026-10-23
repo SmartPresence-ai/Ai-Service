@@ -1,0 +1,11 @@
+.env
+.env.production
+venv/
+__pycache__/
+*.pyc
+node_modules/
+dist/
+.vite/
+.claude/
+SP Student Data Rupapur/
+VIDYA/
